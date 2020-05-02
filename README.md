@@ -2,6 +2,6 @@
 E commerce and blog by using django Framework
 
 
-![](image5.png)
-![](image4.png)
-![](image3.png)
+![](image(5).png)
+![](image(4).png)
+![](image(3).png)
